@@ -1,0 +1,13 @@
+body {
+    font-family: poppins;
+    text-align:center;
+    padding-top: 20px;
+}
+
+.conversor {
+    margin:auto;
+    border: 2px solid grey;
+    max-width: 500px;
+    border-radius: 30px;
+    background-color: #d1d0dd;
+}

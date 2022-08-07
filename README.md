@@ -8,3 +8,5 @@ O projeto tem como finalidade a prática do uso simples de API's. Foi utilizada 
 * ``CSS``
 * ``JS``
 * ``Exchanges Rates API``
+--------------------
+## 📂 Teste clicando <a href="https://gabrielaraujo027.github.io/Conversor_moeda/">aqui</a>
